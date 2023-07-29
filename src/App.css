@@ -2,10 +2,6 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-image: url('https://w.forfun.com/fetch/39/398723c80cc2587db56a8c7881e59747.jpeg'); /* Replace with the path to your background image */
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .navbar {
